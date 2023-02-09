@@ -25,3 +25,5 @@ To be decided solely by the candidate, as long as it meets the requirements of t
 ## Communication with CLL members
 As part of the project work you will be invited to the Chainlink Slack channel with members of the Test Tooling team and any questions can be asked along the way of working on the project.
 
+## Providing Solution
+Please open PR to this repository and add `sebawo` as a reviewer
